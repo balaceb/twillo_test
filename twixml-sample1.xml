@@ -1,0 +1,5 @@
+<Response>
+	<Say voice="alice">Thanks for contacting SALGA! You have a message from Mr. Balace Ballack</Say>
+	<Play>https://github.com/balaceb/twillo_test/blob/master/send-record.mp3</Play>
+</Response>
+
